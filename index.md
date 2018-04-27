@@ -1,4 +1,30 @@
-﻿## Welcome to  Pages
+## Test
+<!Doctype html>
+<html>
+	<head>
+		<meta http-equiv="X-UA-COmpatible" content="IE=edge">
+		<meta name="viewpoint" content="width=device-width, initial-scale=1">
+		<meta charset="UTF-8">
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<!--<link rel="stylesheet" type="text/css" href="styles.css"> -->
+		<title>Aaron</title>
+	</head>
+	<body>
+		<div class="row">
+			<div class="col-sm-12">
+				<div id="navigation">
+    				<ul id = "navSize">
+       					<li><a href="index.html">HOME</a></li>
+        				<li><a href="about.html">ABOUT</a></li>
+        				<li><a href="projects.html">PROJECTS</a></li>
+        				<li><a href="contact.html">CONTACT</a></li>
+    				</ul>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
+
 
 You can use the [editor on GitHub](https://github.com/AaronEdelman/AaronEdelman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
